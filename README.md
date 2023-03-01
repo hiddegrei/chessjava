@@ -1,5 +1,5 @@
 # chessjava
-https://github.com/hiddegrei/chessjava/blob/main/README.md
+https://github.com/hiddegrei/chessjava
 
 Ik heb het java programma alleen gemaakt zonder andere team leden.
 
