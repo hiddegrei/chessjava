@@ -3,8 +3,8 @@
 Ik heb het java programma alleen gemaakt zonder andere team leden.
 
 Wanneer u het programma uitvoert, wordt u gevraagd om de coördinaten in te voeren van het stuk dat u wilt verplaatsen en de coördinaten
-van waar u het stuk wilt verplaatsen. Het eerste coördinaat is de waarde van de horizontale plek van het 
-te verplaatsen stuk (0 tot 7) en het tweede coördinaat is de waarde van de verticale plek van het te verplaatsen stuk (0 tot 7).
+van waar u het stuk wilt verplaatsen. Het eerste coördinaat is de waarde van welke row van het 
+te verplaatsen stuk (0 tot 7) en het tweede coördinaat is de waarde van welke column van het te verplaatsen stuk (0 tot 7).
 
 Het programma controleert of het stuk een geldig stuk is van de
 huidige speler en of de zet een geldige zet is. Als het geen geldige zet is, zal het programma 
