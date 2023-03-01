@@ -47,7 +47,7 @@ public class ChessGame {
                     System.out.print("     -      ");
                 } else {
                     //  System.out.print(board[i][j].getName() + " ");
-                    System.out.print( board[i][j].getName()+ "" + board[i][j].getColor().toUpperCase() +" ");
+                    System.out.print( board[i][j].getName()+ i+j+" " + board[i][j].getColor().toUpperCase() +" ");
                 }
             }
             System.out.println();
